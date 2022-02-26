@@ -1,4 +1,4 @@
-package com.encourage.encourageme.UI;
+package com.encourageme;
 
 
 

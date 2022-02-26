@@ -1,4 +1,4 @@
-package com.encourage.encourageme.UI;
+package com.encourageme;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -9,7 +9,8 @@ import android.os.Handler;
 import android.util.Log;
 import android.view.View;
 
-import com.encourage.encourageme.databinding.ActivitySplashBinding;
+import com.encourageme.databinding.ActivitySplashBinding;
+
 
 public class Splash extends AppCompatActivity {
  private ActivitySplashBinding binding;

@@ -1,4 +1,4 @@
-package com.encourage.encourageme.UI;
+package com.encourageme;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
@@ -9,9 +9,7 @@ import androidx.core.app.NotificationCompat;
 import androidx.core.app.NotificationManagerCompat;
 
 
-import com.encourage.encourageme.R;
-
-import java.util.ArrayList;
+import com.encourageme.R;
 
 public class ReminderBroadcast extends BroadcastReceiver {
 

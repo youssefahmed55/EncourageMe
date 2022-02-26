@@ -1,4 +1,4 @@
-package com.encourage.encourageme.UI;
+package com.encourageme;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.lifecycle.Observer;
@@ -20,8 +20,8 @@ import android.widget.LinearLayout;
 import android.widget.PopupWindow;
 import android.widget.Toast;
 
-import com.encourage.encourageme.R;
-import com.encourage.encourageme.databinding.ActivityMainBinding;
+
+import com.encourageme.databinding.ActivityMainBinding;
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 

@@ -6,7 +6,7 @@ android {
     compileSdk 31
 
     defaultConfig {
-        applicationId "com.encourage.encourageme"
+        applicationId "com.encourageme"
         minSdk 21
         targetSdk 31
         versionCode 1

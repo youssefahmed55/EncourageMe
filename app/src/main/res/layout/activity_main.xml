@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.encourage.encourageme.UI.MainActivity">
+    tools:context="com.encourageme.encourage.UI.MainActivity">
 
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/start_Main"
