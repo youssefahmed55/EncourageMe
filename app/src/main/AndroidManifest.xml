@@ -11,7 +11,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.EncourageMe">
         <activity
-            android:name=".UI.Splash"
+            android:name="com.encourage.encourageme.UI.Splash"
             android:configChanges="orientation"
             android:exported="true"
             android:screenOrientation="portrait"
@@ -23,21 +23,21 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".UI.MainActivity"
+            android:name="com.encourage.encourageme.UI.MainActivity"
 
             android:exported="false"
 
 
             ></activity>
         <activity
-            android:name=".UI.Intro"
+            android:name="com.encourage.encourageme.UI.Intro"
             android:configChanges="orientation"
             android:exported="false"
             android:screenOrientation="portrait"
             ></activity>
 
 
-        <receiver android:name=".UI.ReminderBroadcast" />
+        <receiver android:name="com.encourage.encourageme.UI.ReminderBroadcast" />
     </application>
 
 </manifest>

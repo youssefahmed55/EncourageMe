@@ -1,4 +1,4 @@
-package com.example.encourageme.UI;
+package com.encourage.encourageme.UI;
 
 import android.view.LayoutInflater;
 import android.view.View;
@@ -11,7 +11,6 @@ import androidx.recyclerview.widget.RecyclerView;
 import com.example.encourageme.R;
 
 import java.util.ArrayList;
-import java.util.List;
 
 public class MyRecycleAdapter extends RecyclerView.Adapter<MyRecycleAdapter.Holder> {
 

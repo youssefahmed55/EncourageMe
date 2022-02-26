@@ -1,4 +1,4 @@
-package com.example.encourageme.UI;
+package com.encourage.encourageme.UI;
 
 import androidx.appcompat.app.AppCompatActivity;
 

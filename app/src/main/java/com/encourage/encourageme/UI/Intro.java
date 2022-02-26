@@ -1,4 +1,4 @@
-package com.example.encourageme.UI;
+package com.encourage.encourageme.UI;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -8,7 +8,6 @@ import android.os.Bundle;
 import android.view.View;
 
 import com.example.encourageme.databinding.ActivityIntroBinding;
-import com.example.encourageme.databinding.ActivityMainBinding;
 
 public class Intro extends AppCompatActivity {
     private ActivityIntroBinding binding;
