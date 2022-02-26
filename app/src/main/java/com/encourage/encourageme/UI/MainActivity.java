@@ -20,8 +20,8 @@ import android.widget.LinearLayout;
 import android.widget.PopupWindow;
 import android.widget.Toast;
 
-import com.example.encourageme.R;
-import com.example.encourageme.databinding.ActivityMainBinding;
+import com.encourage.encourageme.R;
+import com.encourage.encourageme.databinding.ActivityMainBinding;
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 

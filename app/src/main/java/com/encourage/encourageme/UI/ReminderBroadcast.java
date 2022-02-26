@@ -8,7 +8,8 @@ import android.util.Log;
 import androidx.core.app.NotificationCompat;
 import androidx.core.app.NotificationManagerCompat;
 
-import com.example.encourageme.R;
+
+import com.encourage.encourageme.R;
 
 import java.util.ArrayList;
 

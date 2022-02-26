@@ -1,15 +1,15 @@
 package com.encourage.encourageme.UI;
 
 
-import android.content.Context;
+
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
-import androidx.lifecycle.Observer;
+
 import androidx.lifecycle.ViewModel;
 
 import java.util.ArrayList;
-import java.util.List;
+
 
 
 public class MyMvvm extends ViewModel {

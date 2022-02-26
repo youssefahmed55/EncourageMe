@@ -7,7 +7,7 @@ import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.view.View;
 
-import com.example.encourageme.databinding.ActivityIntroBinding;
+import com.encourage.encourageme.databinding.ActivityIntroBinding;
 
 public class Intro extends AppCompatActivity {
     private ActivityIntroBinding binding;
@@ -29,6 +29,5 @@ public class Intro extends AppCompatActivity {
                 finish();
             }
             });
-
     }
 }

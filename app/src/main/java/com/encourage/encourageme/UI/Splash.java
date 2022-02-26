@@ -9,7 +9,7 @@ import android.os.Handler;
 import android.util.Log;
 import android.view.View;
 
-import com.example.encourageme.databinding.ActivitySplashBinding;
+import com.encourage.encourageme.databinding.ActivitySplashBinding;
 
 public class Splash extends AppCompatActivity {
  private ActivitySplashBinding binding;
