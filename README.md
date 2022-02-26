@@ -1,7 +1,7 @@
 # EncourageMe
 
 
-This app is to encourage its users to motivate themselves
+This App is to Encourage its users to Motivate themselves
 
 
 build.gradle(Module) :
