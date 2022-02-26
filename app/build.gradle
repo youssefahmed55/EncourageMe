@@ -63,7 +63,7 @@ dependencies {
     //Card View
     implementation "androidx.cardview:cardview:1.0.0"
 
-    //sdp text size
+    //sdp
     implementation 'com.intuit.sdp:sdp-android:1.0.6'
 
 
