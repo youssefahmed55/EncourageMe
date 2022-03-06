@@ -69,7 +69,7 @@ build.gradle(Module) :
    
 Download Apk : 
 
-     https://www.mediafire.com/file/453frz90kjhcsln/EncourageMe.apk/file
+     https://www.mediafire.com/file/b34vat8yv1p0zqw/Encourage+Me.apk/file
    
    
 Download from Google Play :
