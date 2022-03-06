@@ -157,11 +157,11 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         Gson gson = new Gson();
         String json = sharedPreferences.getString("key", null);
 
-        Type type = new TypeToken<ArrayList<String>>() {}.getType();
+        //Type type = new TypeToken<ArrayList<String>>() {}.getType();
+        Type type2 = TypeToken.getParameterized(ArrayList.class, String.class).getType();
 
-
-        if (gson.fromJson(json, type) != null) {
-            myMvvm.ONstartsetMutableLiveDataANDSETARRAYLIST(gson.fromJson(json, type));
+        if (gson.fromJson(json, type2) != null) {
+            myMvvm.ONstartsetMutableLiveDataANDSETARRAYLIST(gson.fromJson(json, type2));
         }
 
     }
