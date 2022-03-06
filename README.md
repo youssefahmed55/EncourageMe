@@ -72,7 +72,7 @@ Download Apk :
      https://www.mediafire.com/file/453frz90kjhcsln/EncourageMe.apk/file
    
    
-Download from GooglePLay :
+Download from Google Play :
 
 
      https://play.google.com/store/apps/details?id=com.encourageme   
